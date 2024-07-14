@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Xcode Playground'/>
+        <page name='Задания № 7.7.1 - 7.7.3'/>
+        <page name='Задание № 7.7.4'/>
+        <page name='Задание № 8.2.5'/>
+        <page name='Задание № 8.2.7'/>
+        <page name='Задание № 8.2.8'/>
+        <page name='Задание № 8.4.1'/>
+        <page name='Задание № 8.6.3'/>
+        <page name='Задания № 9.3.7 - 9.3.8'/>
+        <page name='Задания № 10.2.1 - 10.2.2'/>
+        <page name='Задание № 10.2.4'/>
+        <page name='Задание № 10.2.10'/>
+        <page name='Задание № 10.3.4'/>
+        <page name='Задание № 10.4.2'/>
+        <page name='Задание № 10.6'/>
+        <page name='Урок 11'/>
+        <page name='Урок 11.8'/>
+        <page name='Задание № 12.2.5'/>
+        <page name='Задание № 12.3.2'/>
+        <page name='Задание № 12.3.4'/>
+        <page name='Задание №12.3.5, 12.4.1'/>
+        <page name='Задания № 14.3.2 - 14.3.3'/>
+        <page name='Модуль 13'/>
+    </pages>
+</playground>
